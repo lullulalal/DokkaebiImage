@@ -110,7 +110,7 @@ class _NoiseRemoverBodyState extends State<NoiseRemoverBody> {
                             ),
                             children: [
                               TextSpan(
-                                text: 'BM3D Image Denoising',
+                                text: 'BM3D: Image Denoising',
                                 style: const TextStyle(
                                   decoration: TextDecoration.underline,
                                 ),
