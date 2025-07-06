@@ -123,7 +123,7 @@ class _ColorTransferBodyState extends State<ColorTransferBody> {
                             ),
                             children: [
                               TextSpan(
-                                text: 'Color Transfer between Images',
+                                text: 'CTBI: Color Transfer',
                                 style: const TextStyle(
                                   decoration: TextDecoration.underline,
                                 ),
